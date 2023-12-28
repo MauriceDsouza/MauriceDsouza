@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MauriceDsouza
-- 👀 I’m interested in Python Automation
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in SQL and Database Administration
+- 🌱 I’m currently about SQL and Data Analysis
+- 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me mauricedsouza619@gmail.com
 
 <!---
